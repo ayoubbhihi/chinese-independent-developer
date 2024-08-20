@@ -49,7 +49,7 @@
 
  #### Avery (广州) 
 * :white_check_mark: [AI Tool Trek](https://aitooltrek.com/)：AI 工具导航站 & 实时 AI 新闻预览
-
+* :white_check_mark: [Tool List Ai](https://toollist.ai/)：找到适合每项任务的最佳AI工具
  #### Airyland - [Github](https://github.com/airyland)
 * :white_check_mark: [Logo.surf](https://www.logo.surf)：文字生成 Logo & Favicon
 
